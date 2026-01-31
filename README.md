@@ -26,8 +26,6 @@
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TanStack-black?style=for-the-badge)
-![Tailwind](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss)
 
 ---
 
