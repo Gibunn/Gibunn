@@ -15,25 +15,29 @@
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
-![Go](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go)
-![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+
+![javascript](https://img.shields.io/badge/-Javascript-F7DF1C?style=flat-square&logo=javascript&logoColor=black)
+![typescript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![cplusplus](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+
+![react](https://img.shields.io/badge/-React-00ADD8?style=flat-square&logo=react&logoColor=white)
+![next.js](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 ---
 
 ### ⚙️ Backend
-![NestJS](https://img.shields.io/badge/NestJS-black?style=for-the-badge&logo=nestjs)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![Fiber](https://img.shields.io/badge/Fiber-black?style=for-the-badge&logo=go)
-![Node.js](https://img.shields.io/badge/Node-black?style=for-the-badge&logo=node.js)
+
+![node.js](https://img.shields.io/badge/-NodeJS-5FA04E?style=flat-square&logo=node.js&logoColor=white)
+![nestjs](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat-square&logo=gin&logoColor=white)
+![fiber](https://img.shields.io/badge/-Fiber-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ---
 
