@@ -1,13 +1,10 @@
-# 👋 Hello World, I'm Gibun
-  
-🔐 Currently exploring **Digital Public Infrastructure** & **Cryptographic Systems**    
+# 👋 Hello World, I'm Gibun   
 
 ---
 
 ## 🧭 Current Focus
 
 - 🌍 Fullstack application architecture
-- 🏛 Digital Public Infrastructure (DPI)
 - 🔐 Cryptography & security fundamentals
 
 ---
@@ -36,8 +33,6 @@
 ![node.js](https://img.shields.io/badge/-NodeJS-5FA04E?style=flat-square&logo=node.js&logoColor=white)
 ![nestjs](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat-square&logo=gin&logoColor=white)
-![fiber](https://img.shields.io/badge/-Fiber-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ---
 
@@ -60,5 +55,4 @@
 ## 📈 Currently Leveling Up
 
 - 📐 System design
-- 🔏 Applied cryptography
 - 🎨 UX & interaction design
