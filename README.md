@@ -56,3 +56,4 @@
 
 - 📐 System design
 - 🎨 UX & interaction design
+- ![go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) Learning Go
